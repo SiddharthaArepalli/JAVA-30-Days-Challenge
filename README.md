@@ -1,4 +1,4 @@
-# JAVA-30-Days-Challenge(Starts from 31-10-2023)
+# JAVA-30-Days-Challenge
 A 30 days java programing challenge
 
 **Getting Started with Java DAY - 1**
