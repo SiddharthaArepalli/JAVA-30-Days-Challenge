@@ -1,0 +1,37 @@
+  ------- Java Modifiers --------
+The public keyword is an access modifier, meaning that it is used to set the access level for classes, attributes, methods and constructors.
+
+We divide modifiers into two groups:
+
+Access Modifiers - controls the access level
+Non-Access Modifiers - do not control access level, but provides other functionality
+
+ ------- Access Modifiers-----
+For classes, you can use either public or default:
+
+Modifier  -- 	Description	
+public	  --   The class is accessible by any other class	
+default	   --  The class is only accessible by classes in the same package. 
+            This is used when you don't specify a modifier. 
+            
+ --- >> For attributes, methods and constructors, you can use the one of the following:
+    Modifier ---	Description	Try it
+public   --	The code is accessible for all classes	
+private	-- The code is only accessible within the declared class	
+default	-- The code is only accessible in the same package. This is used when you don't specify a modifier. You will learn more about packages in the Packages chapter	
+protected	-- The code is accessible in the same package and subclasses. You will learn more about subclasses and superclasses in the Inheritance chapter
+
+Non-Access Modifiers
+For classes, you can use either final or abstract:
+
+Modifier -- Description	Try it
+final	-- The class cannot be inherited by other classes (You will learn more about inheritance in the Inheritance chapter)	
+abstract --	The class cannot be used to create objects (To access an abstract class, it must be inherited from another class. You will learn more about inheritance and abstraction in the Inheritance and Abstraction chapters)
+
+
+Non-Access Modifiers
+For classes, you can use either final or abstract:
+
+Modifier	Description	Try it
+final	The class cannot be inherited by other classes (You will learn more about inheritance in the Inheritance chapter)	
+abstract	The class cannot be used to create objects (To access an abstract class, it must be inherited from another class. You will learn more about inheritance and abstraction in the Inheritance and Abstraction chapters)
