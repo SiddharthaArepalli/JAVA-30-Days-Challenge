@@ -1,0 +1,15 @@
+     Java Stack
+
+The stack is a linear data structure that is used to store the collection of objects. It is based on Last-In-First-Out (LIFO). Java collection framework provides many interfaces and classes to store the collection of objects. One of them is the Stack class that provides different operations such as push, pop, search, etc.
+
+In this section, we will discuss the Java Stack class, its methods, and implement the stack data structure in a Java program. But before moving to the Java Stack class have a quick view of how the stack works.
+
+The stack data structure has the two most important operations that are push and pop. The push operation inserts an element into the stack and pop operation removes an element from the top of the stack. Let's see how they work on stack.
+   
+   Method	Modifier and Type	 Method Description
+empty()   	boolean	              The method checks the stack is empty or not.
+push(E item)	E	               The method pushes (insert) an element onto the top of the stack.
+pop()	E	                   The method removes an element from the top of the stack and returns the same element as the value of that function.
+peek()	E	                    The method looks at the top element of the stack without removing it.
+search(Object o)	int	     The method searches the specified object and returns the position of the object.
+
