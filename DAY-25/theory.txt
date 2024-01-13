@@ -1,0 +1,23 @@
+    ---   Types of Exception in Java ----- 
+
+In Java, exception is an event that occurs during the execution of a program and disrupts the normal flow of the program's instructions. Bugs or errors that we don't want and restrict our program's normal execution of code are referred to as exceptions. In this section, we will focus on the types of exceptions in Java and the differences between the two.
+
+Exceptions can be categorized into two ways:
+
+Built-in Exceptions ----- Checked Exception 
+                          Unchecked Exception
+  
+
+ -_---  Built-in Exception
+
+Exceptions that are already available in Java libraries are referred to as built-in exception. These exceptions are able to define the error situation so that we can understand the reason of getting this error. It can be categorized into two broad categories, i.e., checked exceptions and unchecked exception.
+
+Checked Exception
+Checked exceptions are called compile-time exceptions because these exceptions are checked at compile-time by the compiler. The compiler ensures whether the programmer handles the exception or not. The programmer should have to handle the exception; otherwise, the system has shown a compilation error.
+
+Unchecked Exceptions
+The unchecked exceptions are just opposite to the checked exceptions. The compiler will not check these exceptions at compile time. In simple words, if a program throws an unchecked exception, and even if we didn't handle or declare it, the program would not give a compilation error. Usually, it occurs when the user provides bad data during the interaction with the program 
+
+
+User-Defined Exceptions
+
