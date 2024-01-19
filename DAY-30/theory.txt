@@ -6,7 +6,6 @@ Java AWT components are platform-dependent i.e. components are displayed accordi
 The java.awt package provides classes for AWT API such as TextField, Label, TextArea, RadioButton, CheckBox, Choice, List etc.
 
 The AWT tutorial will help the user to understand Java GUI programming in simple and easy steps.
-ADVERTISEMENT
 
 
 Why AWT is platform independent?
