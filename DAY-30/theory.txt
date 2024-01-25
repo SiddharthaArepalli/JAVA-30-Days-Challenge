@@ -8,6 +8,7 @@ The java.awt package provides classes for AWT API such as TextField, Label, Text
 The AWT tutorial will help the user to understand Java GUI programming in simple and easy steps.
 
 
+
 Why AWT is platform independent?
 Java AWT calls the native platform calls the native platform (operating systems) subroutine for creating API components like TextField, ChechBox, button, etc.
 
