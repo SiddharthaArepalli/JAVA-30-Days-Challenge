@@ -5,12 +5,7 @@ Java AWT components are platform-dependent i.e. components are displayed accordi
 
 The java.awt package provides classes for AWT API such as TextField, Label, TextArea, RadioButton, CheckBox, Choice, List etc.
 
-
-
-
 The AWT tutorial will help the user to understand Java GUI programming in simple and easy steps.
-
-
 
 Why AWT is platform independent?
 Java AWT calls the native platform calls the native platform (operating systems) subroutine for creating API components like TextField, ChechBox, button, etc.
@@ -29,13 +24,10 @@ All the elements like the button, text fields, scroll bars, etc. are called comp
 Container
 The Container is a component in AWT that can contain another components like buttons, textfields, labels etc. The classes that extends Container class are known as container such as Frame, Dialog and Panel.
 
-
-
 It is basically a screen where the where the components are placed at their specific locations. Thus it contains and controls the layout of components.
 
 Note: A container itself is a component (see the above diagram), therefore we can add a container inside container.
 Types of containers:
-
 There are four types of containers in Java AWT:
 
 Window
