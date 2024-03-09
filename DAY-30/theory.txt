@@ -16,7 +16,6 @@ For example, an AWT GUI with components like TextField, label and button will ha
 
 
 In simple words, an AWT application will look like a windows application in Windows OS whereas it will look like a Mac application in the MAC OS.
-
 Java AWT Hierarchy
 The hierarchy of Java AWT classes are given below.
 
